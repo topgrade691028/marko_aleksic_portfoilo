@@ -1,0 +1,11 @@
+.uppercase{
+    text-transform: uppercase;
+}
+.cusBorder{
+    cursor: pointer;
+    opacity: 0.75 !important;
+    border-radius: 0 20% 0 20%;
+}
+.cusLine{
+    line-height: 1.3;
+}
