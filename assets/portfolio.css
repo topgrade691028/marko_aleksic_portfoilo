@@ -760,7 +760,7 @@ p {
 }
 
 .item-card > div > picture::before {
-  content: "HardWare & Firmware";
+  content: "PCB Design & Development";
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -790,11 +790,11 @@ p {
 }
 
 .portfolio-item:nth-child(2) > .item-card > div > picture::before {
-  content: "PCB Layout Design";
+  content: "Firmware Development";
 }
 
 .portfolio-item:nth-child(3) > .item-card > div > picture::before {
-  content: "Web | Mobile";
+  content: "RF Design & Analysis";
 }
 
 
